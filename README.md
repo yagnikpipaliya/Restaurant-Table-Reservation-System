@@ -1,5 +1,18 @@
 # Restaurant-Table-Reservation-System
 
+### Admin Functionality
+- Login and Logout
+- Add admin
+- Manage admin
+- Delete Admin
+- Take action against request to book table
+- Add table
+- Manage table
+
+### User Functionality
+- User contact with admin
+- Request for book table for specific time
+
 ### Screenshot (Admin)
 
 ![18-logout](https://user-images.githubusercontent.com/97233515/202719956-6f11e4c3-ab07-4ac7-a7d6-eeb58445ef58.PNG)
@@ -17,6 +30,10 @@
 ![12](https://user-images.githubusercontent.com/97233515/202720375-3127a66d-74a4-4fe6-986f-5a342a0fd4b9.PNG)
 
 ![15](https://user-images.githubusercontent.com/97233515/202720385-9334a476-08d1-4b30-8e10-b6cb4f598a45.PNG)
+
+![tr-3](https://user-images.githubusercontent.com/97233515/202721959-639b52d6-9f0c-43bf-b3a4-1643cda1f306.PNG)
+
+![tr-5](https://user-images.githubusercontent.com/97233515/202722030-46fd6646-3fdd-4693-b4ee-5b62d0e5cfea.PNG)
 
 
 ### Screenshot (User)
